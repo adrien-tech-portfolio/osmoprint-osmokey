@@ -6,7 +6,7 @@ Configuration d’imprimantes Osmprint et serrures NFC Osmokey pour optimiser le
 ## 🚀 Introduction & Contexte  
 Osmozis est un opérateur télécom BtoB français créé en 2005 par Gérard Tremblay et Yves Boulot, spécialisé dans la transformation numérique des campings, résidences de vacances et sites de loisirs en Europe. Avec plus de 95 collaborateurs répartis sur 2 600 sites et 40 000 équipements Wi-Fi/LoRaWAN installés, Osmozis conçoit, développe et assemble ses propres bornes et objets connectés depuis son siège de Clapiers (34 830) et son unité R&D de 14 ingénieurs.  
 
-Durant quatre semaines (20 janvier – 14 février 2025), j’ai intégré le service Stock & Production sous la supervision de Romain Vidal et Samy Hachem pour contribuer à trois missions clés : la configuration d’imprimantes Osmprint, le rodage et la mise à jour des serrures NFC Osmokey, et le démontage/recyclage de bornes Wi-Fi.  
+Durant quatre semaines (20 janvier – 14 février 2025), j’ai intégré le service Stock & Production sous la supervision de R.V et S.H pour contribuer à trois missions clés : la configuration d’imprimantes Osmprint, le rodage et la mise à jour des serrures NFC Osmokey, et le démontage/recyclage de bornes Wi-Fi.  
 
 ## 🖨️ Mission 1 : Configuration des Imprimantes Osmprint  
 
